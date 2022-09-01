@@ -1,6 +1,6 @@
 html{
-	max-width: 1920px;
-	max-height 1080px;
+	min-width: 1920px;
+	min-height 1080px;
 }
 body{
 	font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
