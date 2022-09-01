@@ -1,13 +1,11 @@
-html{
-	min-width: 1920px;
-	min-height 1080px;
-}
 body{
 	font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
 	background-image: url(media/background-image.png);
 	background-attachment: fixed;
 	background-size: cover;
 	overflow: overlay;
+	width: 1920px;
+	height 1080px;
 }
 #navbar{
 	background-color: red;
